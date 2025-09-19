@@ -1,5 +1,5 @@
-streamlit==1.25.0
-tensorflow-cpu==2.9.1
-pillow==9.5.0
-numpy==1.23.5
+gradio==3.50.2
+tensorflow-cpu==2.11.0
+numpy
+pillow
 
